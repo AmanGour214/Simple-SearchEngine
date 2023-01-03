@@ -1,0 +1,25 @@
+input[type=text]{
+    border:2px solid green ;
+    border-radius:4px;
+    width:30%;
+    padding:8px 16px;
+    color:blue;
+     font-family:"Lucida Console";
+}
+button{
+    background-color: orange;
+    color:white;
+    border:1px;
+     border-radius:4px;
+    padding:8px 16px;
+    margin: 4px 2px;
+    cursor:pointer;
+     font-family:"Times New Roman";
+}
+body{
+text-align:center
+}
+.resultTable{
+display:inline-block;
+margin:auto;
+}
